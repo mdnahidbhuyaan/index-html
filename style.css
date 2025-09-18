@@ -15,3 +15,11 @@
     margin-top: 50px;
     margin-left: 50px;
 }
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(138, 143, 195);
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-left: 50px;
+}
